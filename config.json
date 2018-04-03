@@ -1,0 +1,8 @@
+{
+  "nodes": [
+    "rpc.scorum.com"
+  ],
+  "scheme": "https",
+  "first_block_timestamp": "2018-03-23T14:15:03",
+  "blocks_production_interval": 3
+}
